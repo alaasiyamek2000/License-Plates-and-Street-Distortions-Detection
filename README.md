@@ -17,6 +17,8 @@ With object detection capabilities, the application identifies and categorizes v
 
 
 ## Datasets
+To create the model's dataset, all bellow datasets were cloned at ones to use for the same task.
+
 - Potholes:
   - [Pothole Image Dataset](https://universe.roboflow.com/belajar-y9rv6/pothole-projet/dataset/4)
   - [Potholes Detection Dataset](https://universe.roboflow.com/latifa-aloufi-cfd5y/potholes-detection740)
@@ -35,5 +37,5 @@ With object detection capabilities, the application identifies and categorizes v
 
 - License plates violations
   - [Saudi Licence Plates Dataset 1](https://universe.roboflow.com/nawaf-barboud/saudi-plates)
-  - [Saudi Licence Plates Dataset 1](https://universe.roboflow.com/elm/lpr-2eg4q)
-  - [Saudi Licence Plates Dataset 1](https://universe.roboflow.com/scpm/scpm-ngswi)
+  - [Saudi Licence Plates Dataset 2](https://universe.roboflow.com/elm/lpr-2eg4q)
+  - [Saudi Licence Plates Dataset 3](https://universe.roboflow.com/scpm/scpm-ngswi)
