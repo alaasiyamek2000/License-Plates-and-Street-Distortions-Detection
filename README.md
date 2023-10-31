@@ -18,7 +18,7 @@ With object detection capabilities, the application identifies and categorizes v
 
 ## Dataset
 To create the model's dataset, all bellow labeled datasets were cloned at ones to use for the same task. Each class has approximately between 1,200 to 1,800 images, a total of 8,3100 images.
-All datasets are ready labeled with bounding box annotation, COCO, PASCAL VOC and YOLO formats, powered by Roboflow Universe.
+All datasets are ready labeled with bounding box annotation, COCO, PASCAL VOC and YOLO formats, powered by [Roboflow Universe](https://universe.roboflow.com/).
 
 - Potholes:
   - [Pothole Image Dataset](https://universe.roboflow.com/belajar-y9rv6/pothole-projet/dataset/4)
@@ -40,3 +40,8 @@ All datasets are ready labeled with bounding box annotation, COCO, PASCAL VOC an
   - [Saudi Licence Plates Dataset 1](https://universe.roboflow.com/nawaf-barboud/saudi-plates)
   - [Saudi Licence Plates Dataset 2](https://universe.roboflow.com/elm/lpr-2eg4q)
   - [Saudi Licence Plates Dataset 3](https://universe.roboflow.com/scpm/scpm-ngswi)
+ 
+
+## Demo
+The best performing model can be used by running the demo app that created with [Gradio](https://www.gradio.app/).
+
