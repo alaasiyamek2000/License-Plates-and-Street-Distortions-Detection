@@ -18,22 +18,22 @@ With object detection capabilities, the application identifies and categorizes v
 
 ## Datasets
 - Potholes:
-  - [Pothole Image Dataset]([https://universe.roboflow.com/belajar-y9rv6/pothole-projet/dataset/4])
-  - [Potholes Detection Dataset]([https://universe.roboflow.com/latifa-aloufi-cfd5y/potholes-detection740])
+  - [Pothole Image Dataset](https://universe.roboflow.com/belajar-y9rv6/pothole-projet/dataset/4)
+  - [Potholes Detection Dataset](https://universe.roboflow.com/latifa-aloufi-cfd5y/potholes-detection740)
 
 - Dangerous wires:
-  - [Damaged Light Poles Dataset]([https://universe.roboflow.com/umut/27agu/browse?queryText=class%3Akapakyok&pageSize=200&startingIndex=400&browseQuery=true])
-  - [Damaged Electrical Boxes]([https://universe.roboflow.com/xtu-zylqw/dsadsadsadas])
+  - [Damaged Light Poles Dataset](https://universe.roboflow.com/umut/27agu/browse?queryText=class%3Akapakyok&pageSize=200&startingIndex=400&browseQuery=true)
+  - [Damaged Electrical Boxes](https://universe.roboflow.com/xtu-zylqw/dsadsadsadas)
 
 - Wall graffiti:
-  - [Graffiti Dataset 1]([https://universe.roboflow.com/feda/my-dataset-uda6e/dataset/1])
-  - [Graffiti Dataset 2]([[https://universe.roboflow.com/workspace-2-iz9jz/graffiti-5sa0t])
+  - [Graffiti Dataset 1](https://universe.roboflow.com/feda/my-dataset-uda6e/dataset/1)
+  - [Graffiti Dataset 2](https://universe.roboflow.com/workspace-2-iz9jz/graffiti-5sa0t)
 
 - Garbage:
-  - [Garbage Detection Image Dataset]([[https://universe.roboflow.com/universidad-carlos-iii-de-madrid-i1yfs/final-garbage-detection/dataset/1])
-  - [Garbage Dataset]([https://universe.roboflow.com/universidad-carlos-iii-de-madrid-i1yfs/4-better-garbage-detection])
+  - [Garbage Detection Image Dataset](https://universe.roboflow.com/universidad-carlos-iii-de-madrid-i1yfs/final-garbage-detection/dataset/1)
+  - [Garbage Dataset](https://universe.roboflow.com/universidad-carlos-iii-de-madrid-i1yfs/4-better-garbage-detection)
 
 - License plates violations
-  - [Saudi Licence Plates Dataset 1]([https://universe.roboflow.com/nawaf-barboud/saudi-plates])
-  - [Saudi Licence Plates Dataset 1]([https://universe.roboflow.com/elm/lpr-2eg4q])
-  - [Saudi Licence Plates Dataset 1]([https://universe.roboflow.com/scpm/scpm-ngswi])
+  - [Saudi Licence Plates Dataset 1](https://universe.roboflow.com/nawaf-barboud/saudi-plates)
+  - [Saudi Licence Plates Dataset 1](https://universe.roboflow.com/elm/lpr-2eg4q)
+  - [Saudi Licence Plates Dataset 1](https://universe.roboflow.com/scpm/scpm-ngswi)
