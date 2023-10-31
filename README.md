@@ -54,7 +54,7 @@ The best performing model can be used by running the demo app that created with 
 ![alt text](demo_gradio5.png)
 ![alt text](demo_gradio4.png)
 ![alt text](demo_gradio5.png)
-![alt text](demo_gradio7.png)
+![alt text](demo_gradio6.png)
 
 
 
