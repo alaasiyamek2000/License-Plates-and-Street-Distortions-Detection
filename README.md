@@ -15,6 +15,9 @@ With object detection capabilities, the application identifies and categorizes v
 - License plates violations
 
 
+## Applying OCR to The License Plate
+To apply OCR on a License plate text detection and recognition, I use a module called [keras-ocr](https://keras-ocr.readthedocs.io/en/latest/). 
+
 
 ## Dataset
 To create the model's dataset, all bellow labeled datasets were cloned at ones to use for the same task. Each class has approximately between 1,200 to 1,800 images, a total of 8,3100 images.
