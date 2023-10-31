@@ -1,4 +1,4 @@
-# street-distortions-detection
+# License Plates and Street Distortions Detection
 
 ## About The Project
 
