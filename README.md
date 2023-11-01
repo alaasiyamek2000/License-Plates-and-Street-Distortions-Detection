@@ -20,7 +20,7 @@ To apply OCR on a License plate text detection and recognition, I use a module c
 
 
 ## Dataset
-To create the model's dataset, all bellow labeled datasets were cloned at ones to use for the same task. Each class has approximately between 1,200 to 1,800 images, a total of 8,310 images.
+To create the model's dataset, all bellow labeled datasets were cloned at ones to use for the same task. Each class has approximately between 1,000 to 1,800 images, a total of 8,310 images.
 All datasets are ready labeled with bounding box annotation, COCO, PASCAL VOC and YOLO formats, powered by [Roboflow Universe](https://universe.roboflow.com/).
 
 - Potholes:
