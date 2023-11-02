@@ -48,7 +48,7 @@ All datasets are ready labeled with bounding box annotation, COCO, PASCAL VOC an
 ## Demo
 The best performing model can be used by running the demo app that created with [Gradio](https://www.gradio.app/).
 
-- [Project Demo Link](https://0772ed902cdb0a3274.gradio.live/)
+- [Project Demo Link](https://47712febaa0f6ac094.gradio.live/)
 
 ![alt text](demo_gradio1.png)
 ![alt text](demo_gradio2.png)
